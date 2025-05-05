@@ -1,46 +1,62 @@
-<h1 align="center">Hi 👋, I'm Aarya Arban</h1>
-<h3 align="center">3rd-Year IT Engineering Student | Full-Stack Developer | Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Aarya</h1>
+<h3 align="center">A passionate full-stack developer, aspiring software intern, and GATE CS 2026 aspirant 🚀</h3>
 
 <p align="center">
-  🚀 Building real-world projects | 📚 Preparing for GATE CS 2026 | 💼 Aspiring Software Intern
+  <img src="https://komarev.com/ghpvc/?username=aaryaarban&label=Profile%20views&color=0e75b6&style=flat" alt="aaryaarban" />
 </p>
 
 ---
 
-### 🧠 About Me
-- 🔭 Currently working on **CustomTees** – a MERN-based personalized T-shirt e-commerce platform with AR & 3D features
-- 🩸 Built **Blood-Links**, a complete blood donation management system to bridge hospitals and donors
-- 🌱 Learning **Data Structures & Algorithms**, **DevOps**, and **Data Science**
-
-### ⚒️ Tech Stack & Tools
-- **Frontend:** HTML5, CSS3, JavaScript, React.js, Tailwind CSS  
-- **Backend:** Node.js, Express.js, MongoDB, REST APIs  
-- **DevOps & Tools:** Git, GitHub, Jenkins, SonarQube, Docker  
-- **Cloud & Hosting:** Cloudinary, Vercel, Netlify, Render  
-- **Others:** Firebase, Next.js (learning), AR integrations, Pandas, NumPy
+- 🔧 I’m currently working on **CustomTees** – a MERN-based customizable T-shirt platform with AR & 3D integration  
+- 📦 Building **Blood-Links**, a smart blood donation and management system  
+- 📚 Currently learning **DSA, Next.js, DevOps, Data Science**, and prepping for **GATE CS 2026**  
+- 🧠 Ask me about **Full-Stack Web Development**  
+- 📫 How to reach me: **aaryaarban@gmail.com**
 
 ---
 
-### 📈 GitHub Stats
+## 🌐 Connect with Me:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaryaarban&show_icons=true&theme=radical" alt="aaryaarban GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aaryaarban&theme=radical" alt="aaryaarban GitHub Streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryaarban&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+<p>
+  <a href="https://www.linkedin.com/in/aarya-arban/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
+  <a href="mailto:aaryaarban@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="gmail" height="30" width="30" /></a>
 </p>
 
 ---
 
-### 🌐 Connect with Me
+## 🛠️ Languages and Tools:
 
-  <a href="mailto:aaryaarban2004@gmail.com" target="_blank">
-    <img align="left" alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
-  </a>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
 </p>
 
-<br/><br/>
+---
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaryaarban&show_icons=true&theme=tokyonight" alt="Aarya's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryaarban&theme=tokyonight" alt="Aarya's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryaarban&layout=compact&theme=tokyonight" alt="Top Languages Used" />
+</p>
+
+---
 
 
