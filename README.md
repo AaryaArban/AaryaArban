@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hi, I'm Aarya </h1>
-<h3 align="center"> MERN Stack Developer |  | Aspiring Software Intern </h3>
+<h3 align="center"> MERN Stack Developer | Tech Enthusiast | Aspiring Software Intern </h3>
 
 ---
 
 - 💻 IT'26 @TSEC | Mumbai, India  
-- 📬 Reach out: **aaryaarban@gmail.com**  
-- 🚀 Built **CustomTees** — A 3D e-commerce platform with React, Three.js, and Node.js, featuring AR try-ons and real-time order tracking with
-      Stripe integration.  
-- 🤖 Developed **Blood-Links** — A smart blood donation system for optimized donor-recipient matching  
-- 🎯 Exploring **Data Science** and contributing to **open-source**   
+- 📬 Reach out: **aaryaarban2004@gmail.com**
+- 🤖 Engineered **TasteMate** - A personalized recipe and meal discovery app that curates dishes based on your taste preferences and dietary needs.
+- 🚀 Built **CustomTees** — A 3D e-commerce platform with React, Three.js,Node.js and real-time order tracking with Stripe integration.
+- 🤖 Developed **Blood-Links** — A smart blood donation system for optimized donor-recipient matching.  
+- 🎯 Actively diving into **Data Science** while contributing to impactful open-source projects..   
 
 ## 🚀 Tech Stack:
 
@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" />
 </p>
 
 ---
