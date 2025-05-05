@@ -1,60 +1,59 @@
-<h1 align="center">Hi 👋, I'm Aarya</h1>
-<h3 align="center">A passionate full-stack developer, aspiring software intern, and GATE CS 2026 aspirant 🚀</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aaryaarban&label=Profile%20views&color=0e75b6&style=flat" alt="aaryaarban" />
-</p>
+<h1 align="center">👋 Hi, I'm Aarya </h1>
+<h3 align="center"> MERN Stack Developer |  | Aspiring Software Intern </h3>
 
 ---
 
-- 🔧 I’m currently working on **CustomTees** – a MERN-based customizable T-shirt platform with AR & 3D integration  
-- 📦 Building **Blood-Links**, a smart blood donation and management system  
-- 📚 Currently learning **DSA, Next.js, DevOps, Data Science**, and prepping for **GATE CS 2026**  
-- 🧠 Ask me about **Full-Stack Web Development**  
-- 📫 How to reach me: **aaryaarban@gmail.com**
+- 💻 IT'26 @TSEC | Mumbai, India  
+- 📬 Reach out: **aaryaarban@gmail.com**  
+- 🚀 Built **CustomTees** — A 3D e-commerce platform with React, Three.js, and Node.js, featuring AR try-ons and real-time order tracking with
+      Stripe integration.  
+- 🤖 Developed **Blood-Links** — A smart blood donation system for optimized donor-recipient matching  
+- 🎯 Exploring **Data Science** and contributing to **open-source**   
 
----
-
-## 🌐 Connect with Me:
-
-<p>
-  <a href="https://www.linkedin.com/in/aarya-arban/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:aaryaarban@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="gmail" height="30" width="30" /></a>
-</p>
-
----
-
-## 🛠️ Languages and Tools:
+## 🚀 Tech Stack:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats:
+## 🗄️ Databases:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaryaarban&show_icons=true&theme=tokyonight" alt="Aarya's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryaarban&theme=tokyonight" alt="Aarya's GitHub Streak" />
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
 </p>
 
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryaarban&layout=compact&theme=tokyonight" alt="Top Languages Used" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aaryaarban&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryaarban&theme=tokyonight" />
 </p>
 
 ---
