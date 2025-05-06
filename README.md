@@ -5,7 +5,7 @@
 
 - 💻 IT'26 @TSEC | Mumbai, India  
 - 📬 Reach out: **aaryaarban2004@gmail.com**
-- 🤖 Engineered **TasteMate** - A personalized recipe and meal discovery app that curates dishes based on your taste preferences and dietary needs.
+- 🤖 Engineered **TasteMate** -- A personalized recipe and meal discovery app that curates dishes based on your taste preferences and dietary needs.
 - 🚀 Built **CustomTees** — A 3D e-commerce platform with React, Three.js,Node.js and real-time order tracking with Stripe integration.
 - 🤖 Developed **Blood-Links** — A smart blood donation system for optimized donor-recipient matching.  
 - 🎯 Actively diving into **Data Science** while contributing to impactful open-source projects..   
