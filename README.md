@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Aarya </h1>
-<h3 align="center"> MERN Stack Developer | Tech Enthusiast | Aspiring Software Intern </h3>
+<h3 align="center"> MERN Stack Developer | Tech Enthusiast | R&D Intern </h3>
 
 ---
 
